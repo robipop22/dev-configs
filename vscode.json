@@ -1,0 +1,80 @@
+{
+  "editor.tabSize": 2,
+  "editor.cursorWidth": 4,
+  "editor.cursorBlinking": "expand",
+  "workbench.iconTheme": "Monokai Pro (Filter Spectrum) Icons",
+  "workbench.editor.showIcons": false,
+  "prettier.trailingComma": "es5",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "cSpell.language": "en",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "window.zoomLevel": 0,
+  "cSpell.userWords": [
+    "Sider",
+    "Themable",
+    "antd",
+    "apigw",
+    "datepicker",
+    "esnext",
+    "linebreak",
+    "pickandpack",
+    "picklist",
+    "progid",
+    "promisify",
+    "rmwc",
+    "robipop",
+    "sscc",
+    "ssccs",
+    "techteams",
+    "testid",
+    "zeit"
+  ],
+  "explorer.confirmDragAndDrop": false,
+  "workbench.colorTheme": "Night Owl",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "prettier.arrowParens": "always",
+  "prettier.configPath": "prettier.config.js",
+  "maven.executable.path": "/usr/local/bin/mvn",
+  "todo-tree.tree.showScanModeButton": false,
+  "vs-kubernetes": {
+    "vs-kubernetes.helm-path.mac": "/Users/robertpop/.vs-kubernetes/tools/helm/darwin-amd64/helm",
+    "vs-kubernetes.kubectl-path.mac": "/Users/robertpop/.vs-kubernetes/tools/kubectl/kubectl",
+    "vs-kubernetes.minikube-path.mac": "/Users/robertpop/.vs-kubernetes/tools/minikube/darwin-amd64/minikube",
+    "vs-kubernetes.draft-path.mac": "/Users/robertpop/.vs-kubernetes/tools/draft/darwin-amd64/draft"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.alwaysShowStatus": true,
+  "eslint.format.enable": true,
+  "eslint.packageManager": "yarn",
+  "eslint.workingDirectories": [
+    {
+      "mode": "auto"
+    }
+  ],
+  "prettier.prettierPath": "/Users/robertpop/.nvm/versions/node/v13.6.0/bin/prettier",
+  "prettier.resolveGlobalModules": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "zeplin.preferredApplicationType": "Web",
+}
