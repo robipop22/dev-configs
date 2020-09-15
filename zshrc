@@ -38,7 +38,7 @@ export NVM_DIR="$HOME/.nvm"
 export PATH="$PATH:/opt/yarn-[version]/bin"
 export PATH="$PATH:`yarn global bin`"
 
-export NPM_TOKEN="effb6430-4c89-4803-9c23-81c302e2ec40"
+export NPM_TOKEN=""
 
 export GOPATH=$HOME
 export PATH=$PATH:$GOPATH/bin
